@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/21824437/README.1.md)
+
 # Monday Coffee Expansion SQL Project
 
 ![Company Logo](https://github.com/shivamkumar150404/Monday-Coffee-SQL-project/blob/main/1.png)
